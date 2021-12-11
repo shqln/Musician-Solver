@@ -1,5 +1,6 @@
 # Musician-Solver
 Author: Shiqi (Daniel) Lin <sllin2@student.unimelb.edu.au>
+
 Purpose: To provide a set of tools for simulating and solving a game 
 of "Musician"
 
@@ -19,6 +20,7 @@ correct Octave but the wrong Note.
 
 # The Game of Musician
 Author: Peter Schachte <schachte@unimelb.edu.au>
+
 Musician is a two-player logical guessing game.
 For a Musician game, one player is the composer and the other is the 
 performer. The composer begins by selecting a three-pitch musical chord, 
