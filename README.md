@@ -46,11 +46,13 @@ as 1 correct pitch (A1), two correct notes (A2, B1) and one correct octave
 same octave as the target A1, because the target A1 was already used to 
 count the guess A1 as a correct pitch. A few more examples:
 
-Target      Guess       Answer
-A1,B2,A3    A1,A2,B1    1,2,1
-A1,B2,C3    A1,A2,A3    1,0,2
-A1,B1,C1    A2,D1,E1    0,1,2
-A3,B2,C1    C3,A2,B1    0,3,3
+| Target | Guess | Answer |
+| ----------- | ----------- | ----------- |
+| A1,B2,A3 | A1,A2,B1 | 1,2,1 |
+| A1,B2,C3 | A1,A2,A3 | 1,0,2 |
+| A1,B1,C1 | A2,D1,E1 | 0,1,2 |
+| A3,B2,C1 | C3,A2,B1 | 0,3,3 |
+
 The game finishes once the performer guesses the correct chord (all three 
 pitches in the guess are in the target). The object of the game for the 
 performer is to find the target with the fewest possible guesses.
