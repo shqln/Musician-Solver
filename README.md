@@ -1,4 +1,4 @@
-# Musician-Solver
+### Musician-Solver
 Author: Shiqi (Daniel) Lin <sllin2@student.unimelb.edu.au>
 
 Purpose: To provide a set of tools for simulating and solving a game 
@@ -18,7 +18,7 @@ includes the number of correct Pitches, the number of Pitches with the
 correct Notes but the wrong Octave, and the number of Pitches with the 
 correct Octave but the wrong Note.
 
-# The Game of Musician
+### The Game of Musician
 Author: Peter Schachte <schachte@unimelb.edu.au>
 
 Musician is a two-player logical guessing game.
